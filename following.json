@@ -1,0 +1,54 @@
+{
+  "relationships_following": [
+    {
+      "title": "alex_dev",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/alex_dev",
+          "value": "alex_dev",
+          "timestamp": 1757000000
+        }
+      ]
+    },
+    {
+      "title": "code_with_sam",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/code_with_sam",
+          "value": "code_with_sam",
+          "timestamp": 1756900000
+        }
+      ]
+    },
+    {
+      "title": "riya_designs",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/riya_designs",
+          "value": "riya_designs",
+          "timestamp": 1756800000
+        }
+      ]
+    },
+    {
+      "title": "dev_aman",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/dev_aman",
+          "value": "dev_aman",
+          "timestamp": 1756700000
+        }
+      ]
+    },
+    {
+      "title": "web_nisha",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/web_nisha",
+          "value": "web_nisha",
+          "timestamp": 1756600000
+        }
+      ]
+    }
+  ]
+}
