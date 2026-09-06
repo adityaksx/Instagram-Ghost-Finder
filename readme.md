@@ -33,7 +33,7 @@ A simple Python tool that analyzes your Instagram data export and generates an i
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/adityaksx/Instagram-Ghost-Finder.git
 cd instagram-ghost-finder
 ```
 
